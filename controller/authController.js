@@ -17,9 +17,6 @@ module.exports.login = async (req,res) => {
         status: false , 
         message: "Invalid credentials"
     })
-
-
-
     
 }
 
